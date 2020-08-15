@@ -17,7 +17,7 @@ this look like\
 \
 <img src="https://github.com/manhalabdulrazzak/Symfony-calendar/blob/master/demo/Screen_Shot.png">
 \
-<img src="https://github.com/manhalabdulrazzak/Symfony-calendar/blob/master/demo/Screen_Shot2.png">
+<img src="https://github.com/manhalabdulrazzak/Symfony-calendar/blob/master/demo/Screen_Shot_2.png">
 
 for Git this project
 \
