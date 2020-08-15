@@ -20,7 +20,7 @@ class Calendar
     /**
      * @ORM\Column(type="string", length=100)
      */
-    private $tite;
+    private $title;
 
     /**
      * @ORM\Column(type="datetime")
@@ -62,14 +62,14 @@ class Calendar
         return $this->id;
     }
 
-    public function getTite(): ?string
+    public function getTitle(): ?string
     {
-        return $this->tite;
+        return $this->title;
     }
 
-    public function setTite(string $tite): self
+    public function setTitle(string $title): self
     {
-        $this->tite = $tite;
+        $this->title = $title;
 
         return $this;
     }
